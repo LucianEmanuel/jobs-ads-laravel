@@ -29,6 +29,16 @@ Databases: MySQL for storing user and job listing information.
 
 ## How to run the project
 
+### Clone or download project
+
+Run the following
+
+```
+npm install
+composer update --no-scripts
+php artisan key:generate
+```
+
 ### Database Setup
 
 This app uses MySQL. If you want to use something different, open up config/Database.php and change the default driver.
@@ -57,6 +67,7 @@ Upload the files to your document root or run
 
 ```
 php artisan serve
+npm run dev
 ```
 
 ## License
