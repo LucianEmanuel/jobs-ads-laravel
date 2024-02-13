@@ -1,24 +1,24 @@
-## Jobs Listing Laravel
+# Jobs Listing Laravel
 
 ![Alt text](./screenshot.png)
 
-### Description:
+## Description:
 
 I have developed a comprehensive web platform for posting and managing job listings, utilizing a wide range of technologies including HTML, Tailwind CSS, Alpine JS, and Laravel. The platform is designed to be user-friendly for both employers and applicants, offering an intuitive interface.
 
-### Technologies Used:
+## Technologies Used:
 
-Frontend: HTML, Tailwind CSS, Alpine JS for interactivity and responsive design.
-Backend: Laravel for data management, authentication, and authorization.
-Databases: MySQL for storing user and job listing information.
+-   Frontend: HTML, Tailwind CSS, Alpine JS for interactivity and responsive design.
+-   Backend: Laravel for data management, authentication, and authorization.
+-   Databases: MySQL for storing user and job listing information.
 
-### Key Features:
+## Key Features:
 
-**Authentication and Authorization**: Implementation of a secure authentication system for users, with authorization management using gates.
-**Job Posting and Management**: Employers can post, edit, and delete their job listings. Users can browse and apply to available job listings.
-**Profile and Password Management**: Each user has the ability to edit their profile and change their password.
-**Administrator Role**: Implementation of an admin dashboard for administrators, providing an overview of registered users, the number of employers and applicants, as well as the total number of job listings. The administrator can block or delete users as needed.
-**Results**: The platform has been successfully developed, providing a complete and efficient solution for posting and managing job listings. The proper implementation of key functionalities and security measures has led to a smooth and secure experience for all users.
+-   **Authentication and Authorization**: Implementation of a secure authentication system for users, with authorization management using gates.
+-   **Job Posting and Management**: Employers can post, edit, and delete their job listings. Users can browse and apply to available job listings.
+-   **Profile and Password Management**: Each user has the ability to edit their profile and change their password.
+-   **Administrator Role**: Implementation of an admin dashboard for administrators, providing an overview of registered users, the number of employers and applicants, as well as the total number of job listings. The administrator can block or delete users as needed.
+-   **Results**: The platform has been successfully developed, providing a complete and efficient solution for posting and managing job listings. The proper implementation of key functionalities and security measures has led to a smooth and secure experience for all users.
 
 ## Tech stack
 
