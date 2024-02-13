@@ -44,9 +44,7 @@
                                     <p>Location</p>
                                     <a href="#">{{ $post->city }}</a>
                                 </div>
-                                <div class="salary">
-                                        <span>3 days ago</span>
-                                </div>
+
                             </div>
                             <a href="{{ route('show.post', $post->id) }}"
                                 class="block mt-8 w-full bg-gray-700 text-white text-center py-3 rounded-md">View Details</a>
