@@ -36,14 +36,17 @@ Run the following
 ```
 npm install
 composer update --no-scripts
-php artisan key:generate
 ```
 
 ### Database Setup
 
 This app uses MySQL. If you want to use something different, open up config/Database.php and change the default driver.
 
-To use MySQL, setup a database and then add your db credentials(database, username and password) to the .env.example file and rename it to .env
+To use MySQL, setup a database and then add your db credentials(database, username and password) to the .env.example file and rename it to .env and run following
+
+```
+php artisan key:generate
+```
 
 ### Migrations
 
